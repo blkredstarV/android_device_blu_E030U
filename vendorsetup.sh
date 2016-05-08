@@ -1,0 +1,2 @@
+add_lunch_combo cm_E030U-userdebug
+add_lunch_combo cm_E030U-eng
