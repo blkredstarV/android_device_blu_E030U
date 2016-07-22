@@ -1,0 +1,14 @@
+[
+  {
+    "remote":       "github",
+    "repository":   "blkredstarV/device_mediatek_mt6582",
+    "target_path":  "device/mediatek/mt6582",
+    "branch":       "m6.0.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "blkredstarV/vendor_blu_E030U",
+    "target_path":  "vendor/blu/E030U",
+    "branch":       "m6.0.1"
+  }
+]
